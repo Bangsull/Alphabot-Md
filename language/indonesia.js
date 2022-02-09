@@ -86,7 +86,7 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
+	return`Hai kack ${pushname} 👋 selamat ${salam} , 
 saya Fikaabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
@@ -666,7 +666,7 @@ exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
+Hai kack ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
